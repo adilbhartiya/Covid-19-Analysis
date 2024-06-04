@@ -31,7 +31,7 @@ The dataset comprises COVID-19 data, including confirmed cases, recoveries, and 
 ## Setup Instructions
 1. Clone the repository:
 ```bash
-git clone https://github.com/adilbhartiya/covid-19-analysis.git
+git clone https://github.com/adilbhartiya/Covid-19-Analysis.git
 ```
 2. Navigate to the project directory:
 ```bash
